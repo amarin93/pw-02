@@ -7,3 +7,7 @@ h1,h2,h3,h4,h5,h6{
 body{
     font-family: 'Roboto', sans-serif;
 }
+
+.jumbotron{
+    background-image: url(http://lorempixel.com/output/city-q-c-1465-740-4.jpg)
+}
